@@ -42,11 +42,9 @@
 
 <hr />
 
-<h3 align="center">
-   Paleta_cores  
+<p align='center'>Paleta_Cores</p>
+<p align='center'><img src="https://github.com/HenriqueJRodrigues/Curso_polimorfismo_desafio_1/blob/main/github-screenshots/paletacores.PNG" /></p>
 
-  <img src="https://github.com/HenriqueJRodrigues/Curso_polimorfismo_desafio_1/blob/main/github-screenshots/paletacores.PNG">
-</h3>
 <hr />
 
 
